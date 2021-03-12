@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikos Bakogiannis (@KimboGilda)
+- 👋 Hi, I’m Nikolaos Bakogiannis (@KimboGilda)
 - 👀 I’m interested in the **spatial aspect** of the data around us. I really enjoy using `Python` and `R`!
 - 🌱 I’m currently try to get into the world of **Machine Learning** with `fastai` and `PyTorch`
 - 💞️ I’m looking to collaborate on ...
