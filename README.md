@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikolaos Bakogiannis (@KimboGilda)
 - 👀 I’m interested in the **spatial aspect** of the data around us. I really love using `Python` and `R`!
 - 🌱 I’m currently trying to get into the world of **Machine Learning** with `fastai` and `PyTorch`
-- 💞️ I’m looking to collaborate on ...
+- 💞️ You can also have a look on my github entrprise account here --> https://github.zhaw.ch/bako 
 - 📫 How to reach me --> n.bakogiannis@outlook.com
 
 <!---
