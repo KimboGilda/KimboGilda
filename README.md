@@ -2,6 +2,7 @@
 - 👀 I’m interested in the **spatial aspect** of the data around us. I really love using `Python` and `R`, as well as `JavaScript`!
 - 💞️ You can also have a look on my **github enterprise** account here --> https://github.zhaw.ch/bako 
 - 📫 How to reach me --> n.bakogiannis@outlook.com
+- 😎 LinkedIn --> https://www.linkedin.com/in/nikolaos-bakogiannis-4b0a57234/
 
 <!---
 KimboGilda/KimboGilda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
