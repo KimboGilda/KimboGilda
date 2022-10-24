@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikolaos Bakogiannis (@KimboGilda)
-- 👀 I’m interested in the **spatial aspect** of the data around us. I really love using `Python`, `R`, as well as `JavaScript`!
+- 👀 I’m interested in the **spatial aspect** of the data around us. I really love using `Python`, `R`, `SQL/PostGIS`, as well as `JavaScript`!
 - 📫 How to reach me --> n.bakogiannis@outlook.com
 - 😎 LinkedIn --> https://www.linkedin.com/in/nikolaos-bakogiannis-4b0a57234/
 
