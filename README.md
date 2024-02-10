@@ -2,7 +2,7 @@
 
 **`GIS Developer`**
 
-I'm GIS developer, interested in the spatial aspects around me.
+I'm a GIS developer, interested in the spatial aspects around me.
 
 <details open> 
   <summary><h2>🛠️ Tools I use</h2></summary>
