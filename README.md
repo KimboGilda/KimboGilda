@@ -5,7 +5,7 @@
 I'm a GIS developer, interested in the spatial aspects around me.
 
 <details open><h2>🛠️ Tools I use</h2>
-  <summary><h2>🛠️ Tools I use</h2></summary>
+  <summary></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
