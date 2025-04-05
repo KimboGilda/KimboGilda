@@ -1,6 +1,6 @@
 # 🏍️ Nikolaos Bakogiannis
 
-**`GIS Developer`**
+**`GIS Full-Stack Developer`**
 
 I'm a full-stack GIS developer exploring the spatial world through code, end to end.
 
