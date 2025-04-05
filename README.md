@@ -2,7 +2,7 @@
 
 **`GIS Developer`**
 
-I'm a GIS developer, interested in the spatial aspects around me.
+I'm a full-stack GIS developer exploring the spatial world through code, end to end.
 
 <details open><h2>🛠️ Tools I use</h2>
   <summary></summary>
