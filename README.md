@@ -1,4 +1,4 @@
-# 🏍️ Nikolaos Bakogiannis
+# 🏍️ Nikos Bakogiannis
 
 **`GIS Full-Stack Developer`**
 
