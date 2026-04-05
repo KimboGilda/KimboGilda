@@ -32,4 +32,4 @@ Currently working on geospatial web platforms using ArcGIS SDK, React, and Ruby 
 
 ---
 
-📄 [CV](https://kimbogilda.github.io/cv) &nbsp;·&nbsp; ✉️ n.bakogiannis@outlook.com
+📄 [CV](https://kimbogilda.github.io/my-cv/) &nbsp;·&nbsp; ✉️ n.bakogiannis@outlook.com
